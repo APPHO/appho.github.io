@@ -67,15 +67,21 @@
 	},
 	{
 		"date": "2016-02-11",
+		"host": "Annual Meeting 7:00pm, Village Green, 47 Hall Street",
+		"agenda": "/agenda/2016-02-annual.pdf",
+		"minutes": null
+	},
+	{
+		"date": "2016-02-11",
 		"host": "7:00pm, Village Green, 47 Hall Street",
-		"agenda": null,
+		"agenda": "/agenda/2016-02.pdf",
 		"minutes": null
 	},
 	{
 		"date": "2016-01-14",
 		"host": "Ryan Johnson",
 		"agenda": "/agenda/2016-01.pdf",
-		"minutes": null
+		"minutes": "/minutes/2016-01.pdf"
 	},
 	{
 		"date": "2015-12-10",
