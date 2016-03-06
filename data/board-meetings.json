@@ -19,7 +19,7 @@
 	},
 	{
 		"date": "2016-10-13",
-		"host": "Fletcher Chambers",
+		"host": "TBD",
 		"agenda": null,
 		"minutes": null
 	},
@@ -55,7 +55,7 @@
 	},
 	{
 		"date": "2016-04-14",
-		"host": "Fletcher Chambers",
+		"host": "TBD",
 		"agenda": null,
 		"minutes": null
 	},
@@ -63,7 +63,8 @@
 		"date": "2016-03-10",
 		"host": "Mark Roehl",
 		"agenda": null,
-		"minutes": null
+		"minutes": null,
+        "cancelled": true
 	},
 	{
 		"date": "2016-02-11",
