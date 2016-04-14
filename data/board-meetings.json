@@ -57,7 +57,8 @@
 		"date": "2016-04-14",
 		"host": "TBD",
 		"agenda": null,
-		"minutes": null
+		"minutes": null,
+        "cancelled": true
 	},
 	{
 		"date": "2016-03-10",
